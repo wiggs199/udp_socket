@@ -30,7 +30,7 @@ Server will begin to listen for the clients message
 
 Open a new window of terminal - This will be for our client 
 
-Run udp.py client
+Run python3 udp.py client
 
 ![Screen Shot 2021-03-22 at 3 09 59 PM](https://user-images.githubusercontent.com/46654803/112044950-acd84100-8b20-11eb-9dbf-77391ddf4be0.png)
 
